@@ -1,3 +1,3 @@
 # anime_recomendation_system
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
